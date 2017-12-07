@@ -1,4 +1,4 @@
-## Spring Security Using Mysql Authorization in a Spring Boot App
+## Spring Security Using Mysql in a Spring Boot App
 Spring boot application authentication &amp; authorization using Spring security with MySql Database
 
 - Spring Security's login page for capturing user login details.
